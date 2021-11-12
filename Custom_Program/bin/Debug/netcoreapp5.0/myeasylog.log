@@ -1,0 +1,21 @@
+2021-09-10 20:45:03,422 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\./Resources/dice.png)
+2021-09-10 20:50:22,487 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\../../Resources/dice.png)
+2021-09-10 20:54:30,719 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\./../../Resources/dice.png)
+2021-09-10 21:45:51,402 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\dice.png)
+2021-09-10 22:13:41,676 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\dice.png)
+2021-09-10 22:13:41,683 WARNING [default] Trying to set cell details of invalid bitmap.
+2021-09-10 22:13:41,683 WARNING [default] Unable to locate animation file for DiceScript (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\animations\kermit.txt)
+2021-09-10 22:44:32,946 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\dice.png)
+2021-09-10 22:44:32,951 WARNING [default] Trying to set cell details of invalid bitmap.
+2021-09-10 22:44:32,952 WARNING [default] Unable to locate animation file for DiceScript (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\animations\dice.txt)
+2021-09-10 22:44:56,125 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\dice.png)
+2021-09-10 22:44:56,147 WARNING [default] Trying to set cell details of invalid bitmap.
+2021-09-10 22:44:56,147 WARNING [default] Unable to locate animation file for DiceScript (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\animations\dice.txt)
+2021-09-10 22:45:39,140 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\dice.png)
+2021-09-10 22:45:45,015 WARNING [default] Trying to set cell details of invalid bitmap.
+2021-09-11 00:04:45,157 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\dice.png)
+2021-09-11 00:04:45,166 WARNING [default] Trying to set cell details of invalid bitmap.
+2021-09-11 00:04:45,166 WARNING [default] Unable to locate animation file for DiceScript (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\animations\dice.txt)
+2021-09-11 10:47:55,192 WARNING [default] Unable to locate file for DiceImg (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\images\dice.png)
+2021-09-11 10:47:55,203 WARNING [default] Trying to set cell details of invalid bitmap.
+2021-09-11 10:47:55,203 WARNING [default] Unable to locate animation file for DiceScript (D:\Swinburne_Studying\Sem_2_2021\COS20007-OOP\Assignment\Custom_Program\bin\Debug\netcoreapp5.0\animations\dice.txt)

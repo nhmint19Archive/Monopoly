@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\images\cell.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp5.0\Bangers.ttf" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\1.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\2.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\3.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\4.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\5.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\6.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\7.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\8.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\carpark.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\cell.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\chance.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\corner.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\festival.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\festival_symbol.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\jail.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\resort.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\start.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\images\tax.png" />
+    <Content Include="bin\Debug\netcoreapp5.0\OpenSans.ttf" />
+    <Content Include="Resources\images\cell.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp5.0\animations\dice.txt" />
+    <None Include="bin\Debug\netcoreapp5.0\BoardSetup.txt" />
+    <None Include="bin\Debug\netcoreapp5.0\DbInitializeSql.txt" />
+    <None Include="bin\Debug\netcoreapp5.0\images\dice.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\netcoreapp5.0\databases\" />
+    <Folder Include="Resources\databases\" />
+  </ItemGroup>
+
+</Project>
